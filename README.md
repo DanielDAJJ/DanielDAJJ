@@ -1,3 +1,9 @@
+# Reimportar librerías tras reinicio de entorno
+from pathlib import Path
+
+# Volver a guardar el archivo README mejorado tras reinicio
+readme_content = """<img src="https://daniel-protafolio-3vd4.vercel.app/banner.png" alt="Banner" style="width:100%; border-radius:10px;" />
+
 # 👋 Hi, I'm DanielDAJJ!
 
 🎮 **Junior Game Developer** & **UI/UX Designer**  
@@ -45,8 +51,8 @@
 
 | 🎮 Project              | 📝 Description                                                                                      | 🔗 Links                       |
 |------------------------|----------------------------------------------------------------------------------------------------|-------------------------------|
-| **Catastrophe Z**      | Survival game – UI, animations, and design contributions                                           | [Visit](https://github.com/DanielDAJJ/CatastropheZ)                     |
-| **Michi Hunter**       | Game Jam prototype – Unity UI, game design, level layout                                           | [Visit](https://github.com/DanielDAJJ/MichiHunter)                     |
+| **Catastrophe Z**      | Survival game – UI, animations, and design contributions                                           | [Visit](https://github.com/DanielDAJJ/CatastropheZ) |
+| **Michi Hunter**       | Game Jam prototype – Unity UI, game design, level layout                                           | [Visit](https://github.com/DanielDAJJ/MichiHunter) |
 | **Birthday Invitación**| Fullstack web (mobile-first) – Backend & frontend development, design focus                        | [Visit](https://github.com/DanielDAJJ/FrontBirthday) |
 
 ---
@@ -74,5 +80,10 @@
 
 ---
 
-<!-- Animated Elements (Optional) -->
+<!-- Optional GitHub Snake Animation -->
 <img src="https://github.com/danieldajj/danieldajj/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+"""
+
+output_path = Path("/mnt/data/README_DanielDAJJ_Enhanced.md")
+output_path.write_text(readme_content, encoding="utf-8")
+output_path.as_posix()
