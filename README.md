@@ -1,5 +1,3 @@
-<img src="https://daniel-protafolio-3vd4.vercel.app/banner.png" alt="Banner" style="width:100%; border-radius:10px;" />
-
 # 👋 Hi, I'm DanielDAJJ!
 
 🎮 **Junior Game Developer** & **UI/UX Designer**  
@@ -43,20 +41,32 @@
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Featured Projects with Previews
 
-| 🎮 Project              | 📝 Description                                                                                      | 🔗 Links                       |
-|------------------------|----------------------------------------------------------------------------------------------------|-------------------------------|
-| **Catastrophe Z**      | Survival game – UI, animations, and design contributions                                           | [Visit](https://github.com/DanielDAJJ/CatastropheZ) |
-| **Michi Hunter**       | Game Jam prototype – Unity UI, game design, level layout                                           | [Visit](https://github.com/DanielDAJJ/MichiHunter) |
-| **Birthday Invitación**| Fullstack web (mobile-first) – Backend & frontend development, design focus                        | [Visit](https://github.com/DanielDAJJ/FrontBirthday) |
+### 🧟 Catastrophe Z
+<img src="https://via.placeholder.com/300x170.png?text=Catastrophe+Z" width="300px" />
+
+2D survival horror game.  
+**Roles:** UI/UX Design, 2D Animation, Gameplay Prototyping  
+[🔗 GitHub Repo](https://github.com/DanielDAJJ/CatastropheZ)
 
 ---
 
-## 📈 GitHub Stats & Activity
+### 🐱 Michi Hunter
+<img src="https://via.placeholder.com/300x170.png?text=Michi+Hunter" width="300px" />
 
-![DanielDAJJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldajj&show_icons=true&theme=radical&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldajj&layout=compact&theme=radical)
+Game Jam prototype – Unity UI, game design, level layout  
+**Roles:** UI/UX Design, Game Designer  
+[🔗 GitHub Repo](https://github.com/DanielDAJJ/MichiHunter)
+
+---
+
+### 🎉 Birthday Invitación
+<img src="https://via.placeholder.com/300x170.png?text=Birthday+App" width="300px" />
+
+Fullstack responsive web app.  
+**Roles:** Frontend & Backend Dev, Design  
+[🔗 GitHub Repo](https://github.com/DanielDAJJ/FrontBirthday)
 
 ---
 
@@ -69,6 +79,11 @@
 ---
 
 ## 🌟 Fun Facts
+
+- 🖋️ I love blending code and creativity.
+- ✨ Into animation, storytelling, and vector art in my free time.
+- 🤝 Always open to new collaborations & creative projects!
+
 
 - 🖋️ I love blending code and creativity.
 - ✨ Into animation, storytelling, and vector art in my free time.
