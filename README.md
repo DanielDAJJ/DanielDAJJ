@@ -1,7 +1,5 @@
-# Reimportar librerías tras reinicio de entorno
 from pathlib import Path
 
-# Volver a guardar el archivo README mejorado tras reinicio
 readme_content = """<img src="https://daniel-protafolio-3vd4.vercel.app/banner.png" alt="Banner" style="width:100%; border-radius:10px;" />
 
 # 👋 Hi, I'm DanielDAJJ!
