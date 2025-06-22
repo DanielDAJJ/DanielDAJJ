@@ -44,7 +44,7 @@
 ## 🏆 Featured Projects with Previews
 
 ### 🧟 Catastrophe Z
-<img src="[https://via.placeholder.com/300x170.png?text=Catastrophe+Z](https://github.com/DanielDAJJ/DanielDAJJ/blob/main/BANNER-CATASTROPHE-Z.jpg)" width="300px" />
+<img src="https://github.com/DanielDAJJ/DanielDAJJ/blob/main/BANNER-CATASTROPHE-Z.jpg?raw=true" width="300px" />
 
 2D survival horror game.  
 **Roles:** UI/UX Design, 2D Animation, Gameplay Prototyping  
@@ -53,7 +53,7 @@
 ---
 
 ### 🐱 Michi Hunter
-<img src="[https://via.placeholder.com/300x170.png?text=Michi+Hunter](https://github.com/DanielDAJJ/DanielDAJJ/blob/main/MichiHunter.jpg)" width="300px" />
+<img src="https://github.com/DanielDAJJ/DanielDAJJ/blob/main/MichiHunter.jpg?raw=true" width="300px" />
 
 Game Jam prototype – Unity UI, game design, level layout  
 **Roles:** UI/UX Design, Game Designer  
@@ -62,7 +62,7 @@ Game Jam prototype – Unity UI, game design, level layout
 ---
 
 ### 🎉 Birthday Invitación
-<img src="[https://via.placeholder.com/300x170.png?text=Birthday+App](https://github.com/DanielDAJJ/DanielDAJJ/blob/main/ProyectoBirthdayInvitation.png)" width="300px" />
+<img src="https://github.com/DanielDAJJ/DanielDAJJ/blob/main/ProyectoBirthdayInvitation.png?raw=true" width="300px" />
 
 Fullstack responsive web app.  
 **Roles:** Frontend & Backend Dev, Design  
