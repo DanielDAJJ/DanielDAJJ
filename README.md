@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme_content = """<img src="https://daniel-protafolio-3vd4.vercel.app/banner.png" alt="Banner" style="width:100%; border-radius:10px;" />
+<img src="https://daniel-protafolio-3vd4.vercel.app/banner.png" alt="Banner" style="width:100%; border-radius:10px;" />
 
 # 👋 Hi, I'm DanielDAJJ!
 
@@ -80,8 +78,3 @@ readme_content = """<img src="https://daniel-protafolio-3vd4.vercel.app/banner.p
 
 <!-- Optional GitHub Snake Animation -->
 <img src="https://github.com/danieldajj/danieldajj/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-"""
-
-output_path = Path("/mnt/data/README_DanielDAJJ_Enhanced.md")
-output_path.write_text(readme_content, encoding="utf-8")
-output_path.as_posix()
